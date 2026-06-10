@@ -1,7 +1,13 @@
-# Java-Projects
-### Top 5 Recent Projects
-  - TCPNetworkPerformance
+# Java Projects
 
-### Note: Working on uploading files. Files are readily available upon request. 
+## Overview
+This repository contains various Java-based projects that demonstrate different concepts in network and system performance.
 
-# Disclaimer: Rights are reserved. If you are a student looking for code, I'd recommend looking elsewhere. If its discovered you have used my work ( or anyones work) and claim it as your own, you WILL face disciplinary action from the University. You have been warned. 
+## Projects
+- **TCP Network Performance**: Analyze and improve TCP socket communication for optimal performance.
+
+## Work-in-Progress
+Files are being actively uploaded to this repository. If needed immediately, they are available upon request.
+
+## License
+All rights are reserved.
